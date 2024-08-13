@@ -7,7 +7,7 @@ If "O" Wins, the output is display like this.
 ![O Wins](https://github.com/user-attachments/assets/15b3e5d9-5ede-4f10-a161-e675a9fe413c)
 
 
-If "NO one wins" the output displays tie.
+If "No One Wins" the output displays tie.
 
 ![Tie Game](https://github.com/user-attachments/assets/547d6c05-0b7f-470b-a1ec-2e53d0f0f30b)
 
